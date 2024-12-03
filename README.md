@@ -1,6 +1,6 @@
 # SQL-PBI_Inventory_Controlling 
 Utilize BigQuery SQL to extract inventory data, connect to Power BI to modeling and build dashboard
-# SQL-PBI_Inventory_Controlling
+# SQL-PBI_Inventory_Controlling 
 Please see the pdf files attached above
 
 ## I. Introduction
