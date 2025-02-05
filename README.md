@@ -18,7 +18,7 @@ Dataset access:
 - Navigate to the BigQuery console and select your newly created project.
 - In the navigation panel, select "Add Data" and then "Star a project by name".
 - Enter the project name "adventurework2019"
-
+ 
 ## II. Apply design thinking mindset
 **1. Empathize**
 
