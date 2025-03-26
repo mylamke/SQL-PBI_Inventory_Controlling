@@ -15,7 +15,7 @@ Dataset Schema: https://i0.wp.com/improveandrepeat.com/wp-content/uploads/2018/1
   
 Dataset access:  
 - Log in to your Google Cloud Platform account and create a new project.
-- Navigate to the BigQuery console and select your newly created project.
+- Navigate to the BigQuery console and select your newly created project. 
 - In the navigation panel, select "Add Data" and then "Star a project by name".
 - Enter the project name "adventurework2019"
  
