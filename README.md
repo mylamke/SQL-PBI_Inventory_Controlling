@@ -10,7 +10,7 @@ The sales department wants to know the overview of inventory status and look up 
 Dataset: **adventureworks2019** (public Google BigQuery dataset)
 
 Dataset dictionary: Please reach file "Data Dictionary" attached above
- 
+  
 Dataset Schema: https://i0.wp.com/improveandrepeat.com/wp-content/uploads/2018/12/AdvWorksOLTPSchemaVisio.png?ssl=1
   
 Dataset access:   
