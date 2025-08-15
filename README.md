@@ -19,7 +19,7 @@ Dataset access:
 - In the navigation panel, select "Add Data" and then "Star a project by name".
 - Enter the project name "adventurework2019"   
    
-## II. Apply design thinking mindset  
+## II. Apply design thinking mindset   
 **1. Empathize**
 
 ![image](https://github.com/mylam7/SQL-PBI_Inventory_Controlling/assets/133579378/bfe5fe0a-5e62-414b-a729-fbedd19a8e78)
