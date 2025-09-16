@@ -29,7 +29,7 @@ Dataset access:
 
 ![image](https://github.com/mylam7/SQL-PBI_Inventory_Controlling/assets/133579378/e3f860a6-0cea-4c11-81e3-800a795578ff)
 
-
+ 
 **3. Ideate***
 
 ![image](https://github.com/mylam7/SQL-PBI_Inventory_Controlling/assets/133579378/ec257ef1-b064-46ab-907e-f6d91f2f816a)
