@@ -8,7 +8,7 @@ Please see the pdf files attached above
 The sales department wants to know the overview of inventory status and look up the product inventory by category and location to come up with an appropriate sales and marketing strategy.
 ### 2. Dataset
 Dataset: **adventureworks2019** (public Google BigQuery dataset)  
- 
+  
 Dataset dictionary: Please reach file "Data Dictionary" attached above
   
 Dataset Schema: https://i0.wp.com/improveandrepeat.com/wp-content/uploads/2018/12/AdvWorksOLTPSchemaVisio.png?ssl=1
