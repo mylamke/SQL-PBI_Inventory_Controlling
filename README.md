@@ -25,7 +25,7 @@ Dataset access:
 ![image](https://github.com/mylam7/SQL-PBI_Inventory_Controlling/assets/133579378/bfe5fe0a-5e62-414b-a729-fbedd19a8e78)
 
  
-**2. Define point of view**
+**2. Define point of view** 
 
 ![image](https://github.com/mylam7/SQL-PBI_Inventory_Controlling/assets/133579378/e3f860a6-0cea-4c11-81e3-800a795578ff)
 
